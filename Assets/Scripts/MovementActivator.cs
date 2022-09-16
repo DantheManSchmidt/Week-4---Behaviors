@@ -16,5 +16,12 @@ public class MovementActivator : MonoBehaviour
     void Update()
     {
         
+
     }
+
+    void OnTriggerEnter(Collider LeftDoor)
+    {
+
+    } 
+  
 }
